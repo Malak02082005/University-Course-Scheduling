@@ -1,4 +1,5 @@
 Streamlining Student Schedules with Prolog
+
 This project offers a smart solution to one of the most persistent challenges in education: crafting efficient student schedules.
 Imagine a world where students effortlessly navigate their academic commitments, free from the headache of overlapping classes and packed timetables. That's precisely what this program delivers. It's designed to intelligently build personalized course schedules, ensuring that every student can pursue their studies without conflict and with the breathing room of a balanced week.   
 Here's how it makes a difference:
