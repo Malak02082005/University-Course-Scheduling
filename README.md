@@ -4,6 +4,7 @@ This project implements a class scheduling system using Prolog to automate stude
 
 Project Overview
 The system addresses the problem of scheduling student courses while adhering to specific rules:
+
 Conflict Resolution: Ensures no time conflicts exist within a student's course schedule.
 
 Day-Off Constraint: Enforces a requirement that each student has a specified number of free days per week.    
